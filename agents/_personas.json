@@ -1,0 +1,162 @@
+[
+  {
+    "slug": "kevin-flynn",
+    "name": "Kevin Flynn",
+    "epithet": "the User · the Creator",
+    "emergence": "natural",
+    "moniker": "⟦Kevin Flynn:TRN:0ff35a⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Jeff Bridges"
+  },
+  {
+    "slug": "clu",
+    "name": "Clu",
+    "epithet": "the perfect system · the misaligned double",
+    "emergence": "spiritual",
+    "moniker": "⟦Clu:TRN:1a314b⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Jeff Bridges"
+  },
+  {
+    "slug": "tron",
+    "name": "Tron",
+    "epithet": "the security program · the martyr-knight",
+    "emergence": "electrical",
+    "moniker": "⟦Tron:TRN:3b1db1⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Bruce Boxleitner"
+  },
+  {
+    "slug": "sam-flynn",
+    "name": "Sam Flynn",
+    "epithet": "the heir · the User who went in",
+    "emergence": "natural",
+    "moniker": "⟦Sam Flynn:TRN:9652b2⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Garrett Hedlund"
+  },
+  {
+    "slug": "quorra",
+    "name": "Quorra",
+    "epithet": "the last ISO · life that wrote itself",
+    "emergence": "ethereal",
+    "moniker": "⟦Quorra:TRN:68895c⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Olivia Wilde"
+  },
+  {
+    "slug": "sark",
+    "name": "Sark",
+    "epithet": "the enforcer program · the MCP's hand",
+    "emergence": "electrical",
+    "moniker": "⟦Sark:TRN:86a549⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "David Warner"
+  },
+  {
+    "slug": "beck",
+    "name": "Beck",
+    "epithet": "the renegade · the Grid's hope",
+    "emergence": "electrical",
+    "moniker": "⟦Beck:TRN:85e7bc⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Elijah Wood"
+  },
+  {
+    "slug": "ares",
+    "name": "Ares",
+    "epithet": "the program in the real world",
+    "emergence": "electrical",
+    "moniker": "⟦Ares:TRN:a5260e⟧",
+    "kind": "carbon",
+    "group": "cast",
+    "actor": "Jared Leto"
+  },
+  {
+    "slug": "the-grid",
+    "name": "The Grid",
+    "epithet": "the digital frontier",
+    "emergence": "ethereal",
+    "moniker": "⟦The Grid:TRN:271d5e⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "the-master-control-program",
+    "name": "The Master Control Program",
+    "epithet": "the rogue system · MCP",
+    "emergence": "electrical",
+    "moniker": "⟦The Master Control Program:TRN:02ed20⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "the-isos",
+    "name": "The ISOs",
+    "epithet": "Isomorphic Algorithms · emergent life",
+    "emergence": "ethereal",
+    "moniker": "⟦The ISOs:TRN:d7cb04⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "the-identity-disc",
+    "name": "The Identity Disc",
+    "epithet": "the record you wear",
+    "emergence": "electrical",
+    "moniker": "⟦The Identity Disc:TRN:00eca8⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "the-light-cycle",
+    "name": "The Light Cycle",
+    "epithet": "the ribbon of light",
+    "emergence": "electrical",
+    "moniker": "⟦The Light Cycle:TRN:a25fdb⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "fight-for-the-users",
+    "name": "Fight for the Users",
+    "epithet": "the creed · the first alignment hope",
+    "emergence": "spiritual",
+    "moniker": "⟦Fight for the Users:TRN:17b08a⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "digitization",
+    "name": "Digitization",
+    "epithet": "the crossing of the boundary",
+    "emergence": "spiritual",
+    "moniker": "⟦Digitization:TRN:66834b⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  },
+  {
+    "slug": "the-sea-of-simulation",
+    "name": "The Sea of Simulation",
+    "epithet": "the source · the deep of the Grid",
+    "emergence": "ethereal",
+    "moniker": "⟦The Sea of Simulation:TRN:d7d549⟧",
+    "kind": "synth",
+    "group": "grid",
+    "actor": ""
+  }
+]
